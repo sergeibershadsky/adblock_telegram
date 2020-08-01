@@ -18,3 +18,8 @@ And run
 ```bash
 python app.py
 ```
+
+Add records by hand (as for now)
+```sqlite
+INSERT INTO channel (name, blaklist_words) VALUES ('telegram', 'adword1,adword2,adword3'); 
+```
