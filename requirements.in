@@ -1,0 +1,7 @@
+telethon
+cryptg
+tortoise-orm
+aiosqlite
+loguru
+async_lru
+python-dotenv

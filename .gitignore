@@ -1,0 +1,4 @@
+*.session*
+*.sqlite3*
+/.idea
+.env
